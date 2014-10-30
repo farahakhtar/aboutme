@@ -1,0 +1,25 @@
+p.color {
+
+	color: black; 
+
+}
+
+.heading-intro,
+.heading-name,
+.intro-section {text-align: center; width: 300px; margin: auto;}
+.intro-section {margin-top: 100px;}
+.heading-intro {margin-top: 50px;}
+.heading-name {font-size: 36px;}
+
+body {background-image: url("http://alexgoldblum.com/wp-content/uploads/2012/07/NYC-Skyline.jpg");
+
+background-size: cover;
+
+background-position: 0px -100px,
+					 center;
+background-origin: content-box;
+
+background-repeat: no-repeat;
+
+background-color: 
+					}
